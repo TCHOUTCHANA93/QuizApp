@@ -1,0 +1,51 @@
+body{
+    background-image:radial-gradient(circle, #a44f1e, #b8792e, #c7a348, #d2ce6d, #dbf89b);
+}
+
+.block{
+    background-color: bisque;
+    height: 100%;
+    width: 450px;
+}
+.h{
+    height: 50px;
+}
+.qstcontent{
+    width: 45%;
+    height: 40px;
+    margin-top: 5px;
+    background: rgb(168, 138, 102);
+}
+.choicetext{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.qcm{
+    text-align: center;
+}
+.ligne1{
+    display: flex;
+    justify-content: space-between;
+}
+.fot{
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+}
+.btn{
+    background-color: sandybrown !important;
+}
+.score{
+    background-color: sandybrown;
+    width: 20px;
+    padding: 3px;
+}
+.scoreMoins{
+    background-color: rgb(168, 138, 102);
+    width: 20px;
+    padding: 3px;
+}
